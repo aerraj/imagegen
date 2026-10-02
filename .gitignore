@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+ComfyUI/
+output/
+input/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+*.bin
+*.onnx
+*.log
+__pycache__/
